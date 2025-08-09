@@ -73,7 +73,7 @@
 
 ##### String
 
-\#include<string>
+\#include\<string\>
 
 * \+ ->concatenation
 * "a".append("b") -> ab
@@ -103,12 +103,12 @@
 
 
 
-###### \#include<iostream>
+###### \#include\<iostream\>
 
 * max() 
 * min()
 
-###### \#include<cmath>
+###### \#include\<cmath\>
 
 * sqrt()
 * pow()
